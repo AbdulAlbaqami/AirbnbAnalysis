@@ -31,17 +31,19 @@ The full set of files related to this course are owned by Udacity, so they are n
 
 ## File Descriptions <a name="files"></a>
 The is one notebook here containing the following: 
-1- Importing neccessory libraries and datasets 
-2- Exploratory Data Analysis
-3- Data Transformations
-4- Data Visualization 
+1- What is the percentage of available properties on Airbnb during different times of the year?
+2- What is the average price of properties listed on Airbnb during different seasons? Is there a spike in prices over certain times?
+3- Do certain neighborhoods rent out more properties than others?
+4- Does the price average varies between different neighborhoods?
+5- Where are the most rented properties located in Seattle?
+6- What are the most distinguished features of the most rented properties?
 
 The notebook clearly follow the CRISP (Cross Industry Standard Processes) Methodology and has a clear documentations that explain the logics behinde the code. 
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://).
+The main findings of the code can be found at the post available [here](https://medium.com/@albaqami200/what-can-we-learn-from-airbnbs-data-sets-as-property-owners-and-consumers-898e6480a996).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).  Otherwise, feel free to use the code here as you would like! 
+Must give credit to Iside Airbnb for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/datasets/airbnb/seattle/data).  Otherwise, feel free to use the code here as you would like! 
